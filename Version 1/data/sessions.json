@@ -1,0 +1,353 @@
+[
+  {
+    "id": "8388d0f5-7653-4872-8ae1-f04cec4a37a4",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:20:49.751213",
+    "ended_at": null,
+    "messages": [],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "d1e7fc55-c095-43d6-9c2f-4270c47cde4b",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:23:58.327328",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "74f9df89-ad4e-470d-b11c-0c9b373e7ab6",
+        "session_id": "d1e7fc55-c095-43d6-9c2f-4270c47cde4b",
+        "sender": "seller",
+        "content": "Yes, Tell Me",
+        "timestamp": "2025-09-22T21:25:23.474483",
+        "sender_type": "human"
+      },
+      {
+        "id": "c46443b3-1e04-4981-9bf9-64d9769c161b",
+        "session_id": "d1e7fc55-c095-43d6-9c2f-4270c47cde4b",
+        "sender": "ai",
+        "content": "That's wonderful! When would be a good time for pickup? I can arrange immediate payment.",
+        "timestamp": "2025-09-22T21:25:23.476464",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:31:21.249044",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "f035ec25-2fb1-4212-aafc-8136b14289b0",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "seller",
+        "content": "Yes, Hi",
+        "timestamp": "2025-09-22T21:31:37.858094",
+        "sender_type": "human"
+      },
+      {
+        "id": "e77e4f75-b297-4f62-b3fa-362a3e81d65e",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "ai",
+        "content": "That's wonderful! When would be a good time for pickup? I can arrange immediate payment.",
+        "timestamp": "2025-09-22T21:31:39.560856",
+        "sender_type": "ai"
+      },
+      {
+        "id": "90671de9-8c16-437a-a501-d54b1dab529c",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "seller",
+        "content": "Yes, At what price",
+        "timestamp": "2025-09-22T21:31:55.109169",
+        "sender_type": "human"
+      },
+      {
+        "id": "e0275808-fb2a-4d36-b3d0-43307a5c1235",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "ai",
+        "content": "That's wonderful! When would be a good time for pickup? I can arrange immediate payment.",
+        "timestamp": "2025-09-22T21:31:55.432950",
+        "sender_type": "ai"
+      },
+      {
+        "id": "41a3941f-bc3c-4ecf-a287-e4fba3681ffb",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "seller",
+        "content": "No",
+        "timestamp": "2025-09-22T21:32:02.754507",
+        "sender_type": "human"
+      },
+      {
+        "id": "90fe4724-31af-4871-9c52-5ea85ee50521",
+        "session_id": "cef89b70-eb50-4a3c-a727-25fd90de7042",
+        "sender": "ai",
+        "content": "I appreciate the quality you're offering. Perhaps we can find a middle ground? How about ₹37,125?",
+        "timestamp": "2025-09-22T21:32:03.114866",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "550c5b04-de1e-4ce8-bb67-5c643ea64d6e",
+    "product_id": "prod_003",
+    "user_params": {
+      "product_id": "prod_003",
+      "target_price": 63750,
+      "max_budget": 76500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:38:33.046295",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "86c66c34-1ba6-46f0-a1e0-7d488e7c6350",
+        "session_id": "550c5b04-de1e-4ce8-bb67-5c643ea64d6e",
+        "sender": "seller",
+        "content": "No, It is too low for this product",
+        "timestamp": "2025-09-22T21:38:57.056261",
+        "sender_type": "human"
+      },
+      {
+        "id": "8cec7ce2-437e-4ae3-9620-bf3b412bc2b9",
+        "session_id": "550c5b04-de1e-4ce8-bb67-5c643ea64d6e",
+        "sender": "ai",
+        "content": "Hi Amit, I understand your perspective.  ₹85,000 is a bit above my budget, but I'm genuinely interested in the MacBook Air.  Considering its excellent condition, I'd be comfortable offering ₹72,000.  This would allow for a smooth transaction and convenient pickup from your location in Andheri West tomorrow.  Perhaps we can find a middle ground that works for both of us?  Let me know your thoughts.",
+        "timestamp": "2025-09-22T21:38:59.580216",
+        "sender_type": "ai"
+      },
+      {
+        "id": "04820b5a-30a6-4efc-b934-5fbc041172e9",
+        "session_id": "550c5b04-de1e-4ce8-bb67-5c643ea64d6e",
+        "sender": "seller",
+        "content": "No No",
+        "timestamp": "2025-09-22T21:39:18.484131",
+        "sender_type": "human"
+      },
+      {
+        "id": "12b2f156-365d-4ec3-8a62-9ea984d73195",
+        "session_id": "550c5b04-de1e-4ce8-bb67-5c643ea64d6e",
+        "sender": "ai",
+        "content": "Hi Amit, I understand your reluctance.  ₹85,000 is quite high, and while I really like the MacBook Air,  I'm working with a tighter budget.  Could you reconsider my offer of ₹72,000? I'm prepared to pick it up in Andheri West tomorrow and pay via Google Pay/PhonePe immediately upon inspection.  Perhaps a price of ₹75,000 would make this a fair deal for both of us?  Let's find a solution that works.",
+        "timestamp": "2025-09-22T21:39:19.855661",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "20b651a5-de1c-45b0-9963-7c0d2e999bf2",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:47:49.184586",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "2c76277e-b7bf-465a-be21-6b7fd5f50639",
+        "session_id": "20b651a5-de1c-45b0-9963-7c0d2e999bf2",
+        "sender": "seller",
+        "content": "No, the price you are asking is too low",
+        "timestamp": "2025-09-22T21:48:12.020812",
+        "sender_type": "human"
+      },
+      {
+        "id": "35c1f39a-0d20-420b-9ed2-67c84bdf16af",
+        "session_id": "20b651a5-de1c-45b0-9963-7c0d2e999bf2",
+        "sender": "ai",
+        "content": "Hello Rajesh Kumar, I understand your perspective.  ₹45,000 is a fair price, but my budget is capped at ₹40,500.  Considering the phone is in excellent condition and I'm ready to pick it up today from Sector 18, Noida,  would you consider ₹40,000?  I'm happy to pay via Google Pay/PhonePe upon inspection.  Let me know what you think – I'm keen to finalize this if we can find a price that works for both of us.",
+        "timestamp": "2025-09-22T21:48:14.702247",
+        "sender_type": "ai"
+      },
+      {
+        "id": "e22ab967-5f0c-4d1b-9bb9-56b19f20a5fc",
+        "session_id": "20b651a5-de1c-45b0-9963-7c0d2e999bf2",
+        "sender": "seller",
+        "content": "Ok, I will accept it",
+        "timestamp": "2025-09-22T21:48:32.660505",
+        "sender_type": "human"
+      },
+      {
+        "id": "c1daa774-db48-4f8a-84a7-108343e3dde4",
+        "session_id": "20b651a5-de1c-45b0-9963-7c0d2e999bf2",
+        "sender": "ai",
+        "content": "Great, Rajesh Kumar!  That's excellent news.  To confirm, you're accepting ₹40,000?  I can pick it up from Sector 18, Noida, within the hour.  Could you please share your phone number so I can confirm the time and payment method (Google Pay/PhonePe) before I head over?  Looking forward to finalizing this.",
+        "timestamp": "2025-09-22T21:48:33.850905",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "dcb4d7c4-54fe-4f05-9dc2-863b9d074e75",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T21:55:05.386109",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "ffe41ec8-2774-4c30-9d99-5c41691a6d46",
+        "session_id": "dcb4d7c4-54fe-4f05-9dc2-863b9d074e75",
+        "sender": "seller",
+        "content": "No, the price is too low",
+        "timestamp": "2025-09-22T21:55:22.778493",
+        "sender_type": "human"
+      },
+      {
+        "id": "4958d923-1577-4a92-b02c-a846762e312a",
+        "session_id": "dcb4d7c4-54fe-4f05-9dc2-863b9d074e75",
+        "sender": "ai",
+        "content": "Hello Rajesh Kumar, I understand your position.  ₹45,000 is a fair price, but I'm hoping to find a slightly better deal.  My budget is capped at ₹40,500, which is still a good price for an excellent condition iPhone 13.  Could we perhaps meet in the middle?  I'm available to pick it up in Sector 18, Noida today and can do an immediate bank transfer upon inspection.  Would ₹40,000 be acceptable to you?",
+        "timestamp": "2025-09-22T21:55:24.380837",
+        "sender_type": "ai"
+      },
+      {
+        "id": "bc050a11-7f8c-49c1-ae0f-235bff69179d",
+        "session_id": "dcb4d7c4-54fe-4f05-9dc2-863b9d074e75",
+        "sender": "seller",
+        "content": "Ok, I will accept it",
+        "timestamp": "2025-09-22T21:55:33.192654",
+        "sender_type": "human"
+      },
+      {
+        "id": "ed7135d5-9731-41b9-9f94-bdc9897d34d3",
+        "session_id": "dcb4d7c4-54fe-4f05-9dc2-863b9d074e75",
+        "sender": "ai",
+        "content": "That's great, Rajesh Kumar!  ₹40,000 is much appreciated.  To confirm, that includes the phone in excellent condition, right?  I can pick it up in Sector 18, Noida within the hour.  Could you please share your phone number so I can coordinate the exact time and I can also send you my contact details.  Once I inspect the phone and everything is as agreed, I'll do an immediate bank transfer.  Let me know what works best for you.",
+        "timestamp": "2025-09-22T21:55:34.518031",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "55fc49b6-06b9-4c1f-9021-7a1e9f9133d6",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-22T22:00:44.909198",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "2069551a-7f37-4d86-b42e-61902622bf64",
+        "session_id": "55fc49b6-06b9-4c1f-9021-7a1e9f9133d6",
+        "sender": "seller",
+        "content": "No, the price is too low",
+        "timestamp": "2025-09-22T22:04:15.057399",
+        "sender_type": "human"
+      },
+      {
+        "id": "61c42c51-438b-490d-8624-77836c224ea8",
+        "session_id": "55fc49b6-06b9-4c1f-9021-7a1e9f9133d6",
+        "sender": "ai",
+        "content": "Hello Rajesh Kumar, I understand your perspective.  ₹45,000 is a bit above my budget, however, I'm genuinely interested in the iPhone 13.  Considering its excellent condition, I'd be willing to offer ₹40,000, which is still a fair price.  If that works for you, I can pick it up from Sector 18, Noida today and pay via Google Pay/PhonePe.  Let me know your thoughts.  We can also discuss a middle ground if ₹40,000 is still too low.",
+        "timestamp": "2025-09-22T22:04:16.562061",
+        "sender_type": "ai"
+      },
+      {
+        "id": "007bd7a4-0bc0-4f93-afa1-1a2a68c44e24",
+        "session_id": "55fc49b6-06b9-4c1f-9021-7a1e9f9133d6",
+        "sender": "seller",
+        "content": "Ok, I will accept it",
+        "timestamp": "2025-09-22T22:04:47.956594",
+        "sender_type": "human"
+      },
+      {
+        "id": "6cce2e6f-f5e9-4104-9e56-efd591d1d574",
+        "session_id": "55fc49b6-06b9-4c1f-9021-7a1e9f9133d6",
+        "sender": "ai",
+        "content": "Great, Rajesh Kumar!  I appreciate you accepting my offer of ₹40,000.  To confirm, that includes the iPhone 13 128GB Blue in excellent condition, correct? I can pick it up from Sector 18, Noida as soon as you're available today.  Could you share your phone number so we can coordinate the pickup time?  Once we've confirmed a time, I'll be ready to pay via Google Pay or PhonePe.",
+        "timestamp": "2025-09-22T22:04:49.172999",
+        "sender_type": "ai"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  },
+  {
+    "id": "0753e8eb-2278-422e-bacd-828101ade6e8",
+    "product_id": "prod_001",
+    "user_params": {
+      "product_id": "prod_001",
+      "target_price": 33750,
+      "max_budget": 40500,
+      "approach": "diplomatic",
+      "timeline": "flexible",
+      "special_requirements": ""
+    },
+    "status": "active",
+    "created_at": "2025-09-28T15:32:25.130490",
+    "ended_at": null,
+    "messages": [
+      {
+        "id": "831dfceb-44bb-488f-804b-71de5a25df1e",
+        "session_id": "0753e8eb-2278-422e-bacd-828101ade6e8",
+        "sender": "seller",
+        "content": "The Price is too low",
+        "timestamp": "2025-09-28T15:32:53.429616",
+        "sender_type": "human"
+      }
+    ],
+    "final_price": null,
+    "outcome": null
+  }
+]
