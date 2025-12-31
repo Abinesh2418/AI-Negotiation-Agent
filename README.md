@@ -156,6 +156,9 @@ Contributions are welcome! To contribute:
 
 ---
 
-## Contact
-- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
-- **Email:** denistanb05@gmail.com
+## 📬 Contact
+For any queries or suggestions, feel free to reach out:
+
+📧 Email: abineshbalasubramaniyam@example.com
+💼 LinkedIn: linkedin.com/in/abinesh-b-1b14a1290/
+🐙 GitHub: github.com/Abinesh2418

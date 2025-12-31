@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-websockets
-pydantic
-google-generativeai
-python-multipart
-jinja2
-python-dotenv
