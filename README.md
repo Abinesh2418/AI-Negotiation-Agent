@@ -53,8 +53,8 @@ The core engine supports dynamic strategy adjustment based on:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DCode-v05/Negotiation-Agent.git
-cd Negotiation-Agent
+git clone https://github.com/Abinesh2418/AI-Negotiation-Agent.git
+cd AI-Negotiation-Agent
 ```
 
 ### 2. Backend Setup
@@ -96,42 +96,67 @@ npm run dev
 
 ## Project Structure
 ```
-Negotiation-Agent/
+AI-Negotiation-Agent/
+├── backend/                     # Backend Application
+│   ├── data/                    # Backend data storage
+│   │   ├── auth_sessions.json   # Authentication session data
+│   │   └── users.json           # User database
+│   ├── auth_service.py          # Authentication logic and user management
+│   ├── database.py              # Database connection and session handling
+│   ├── enhanced_ai_service.py   # Advanced AI processing capabilities
+│   ├── enhanced_scraper.py      # Improved scraping for product listings
+│   ├── gemini_service.py        # Integration with Google Gemini AI
+│   ├── langchain_agent.py       # LangChain-based negotiation agent
+│   ├── main.py                  # FastAPI application entry point
+│   ├── mcp_integration.py       # Model Context Protocol integration
+│   ├── models.py                # Pydantic data models and schemas
+│   ├── negotiation_engine.py    # Core negotiation logic and strategy
+│   ├── scraper_service.py       # Base scraping service modules
+│   ├── session_manager.py       # Manages user sessions and states
+│   └── websocket_manager.py     # Handles real-time WebSocket connections
 │
-├── Version 1/              # Previous iteration files
+├── data/                        # General data directory
+│   ├── auth_sessions.json       # Global authentication sessions
+│   ├── products.json            # Product listings and information
+│   ├── sessions.json            # Negotiation session data
+│   └── users.json               # User accounts database
 │
-├── backend/                # Backend Application
-│   ├── data/               # Backend data storage
-│   ├── auth_service.py     # Authentication logic and user management
-│   ├── database.py         # Database connection and session handling
-│   ├── enhanced_ai_service.py # Advanced AI processing capabilities
-│   ├── enhanced_scraper.py # Improved seeking for product listings
-│   ├── gemini_service.py   # Integration with Google Gemini AI
-│   ├── langchain_agent.py  # LangChain-based negotiation agent
-│   ├── main.py             # FastAPI application entry point
-│   ├── mcp_integration.py  # Model Context Protocol integration
-│   ├── models.py           # Pydantic data models and schemas
-│   ├── negotiation_engine.py # Core negotiation logic and strategy
-│   ├── scraper_service.py  # Base scraping service modules
-│   ├── session_manager.py  # Manages user sessions and states
-│   └── websocket_manager.py # Handles real-time WebSocket connections
+├── frontend/                    # Frontend Application
+│   ├── src/                     # React source code directory
+│   │   ├── components/          # Reusable UI components
+│   │   │   ├── ChatInterface.jsx           # Main chat interface component
+│   │   │   ├── ChatInterfaceFixed.jsx      # Fixed version of chat interface
+│   │   │   ├── ChatInterfaceNew.jsx        # New chat interface implementation
+│   │   │   ├── MarketAnalysis.jsx          # Market analysis display
+│   │   │   ├── MessageBubble.jsx           # Chat message bubble component
+│   │   │   ├── ProductCard.jsx             # Product listing card
+│   │   │   ├── SellerPortal.jsx            # Seller portal interface
+│   │   │   ├── SellerPortalBackup.jsx      # Backup seller portal
+│   │   │   ├── Sidebar.jsx                 # Navigation sidebar
+│   │   │   ├── SidebarNew.jsx              # Updated sidebar component
+│   │   │   └── UnifiedAuth.jsx             # Authentication component
+│   │   ├── hooks/               # Custom React hooks
+│   │   │   └── useNegotiationStore.js      # Negotiation state management
+│   │   ├── services/            # External service integrations
+│   │   │   ├── api.js           # API service layer
+│   │   │   └── websocket.js     # WebSocket service layer
+│   │   ├── App.jsx              # Main application component
+│   │   ├── AppSelfContained.jsx # Self-contained app version
+│   │   ├── AppSelfContainedImproved.jsx # Improved self-contained version
+│   │   ├── index.css            # Global styles
+│   │   └── main.jsx             # React application entry point
+│   ├── index.html               # Main application HTML
+│   ├── package.json             # Project dependencies and scripts
+│   ├── postcss.config.js        # PostCSS configuration
+│   ├── react-app.html           # React application template
+│   ├── seller-portal.html       # Dedicated interface for sellers
+│   ├── tailwind.config.js       # Tailwind CSS configuration
+│   └── vite.config.js           # Vite build tool configuration
 │
-├── data/                   # General data directory
-│
-├── frontend/               # Frontend Application
-│   ├── src/                # React source code directory
-│   ├── index.html          # Main application entry point
-│   ├── package.json        # Project dependencies and scripts
-│   ├── postcss.config.js   # PostCSS configuration
-│   ├── react-app.html      # React application component template
-│   ├── seller-portal.html  # Dedicated interface for sellers
-│   ├── tailwind.config.js  # Tailwind CSS configuration
-│   └── vite.config.js      # Vite build tool configuration
-│
-├── .env.example            # Template for environment variables
-├── .gitignore              # Git ignore rules
-├── requirements.txt        # Python project dependencies
-└── README.md               # Project documentation
+├── .env.example                 # Template for environment variables
+├── .gitignore                   # Git ignore rules
+├── requirements.txt             # Python project dependencies
+└── README.md                    # Project documentation
 ```
 
 ---
@@ -159,6 +184,6 @@ Contributions are welcome! To contribute:
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
 
-- 📧 **Email:** abineshbalasubramaniyam@example.com
+- 📧 **Email:** abineshbalasubramaniyam@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/abinesh-b-1b14a1290/](https://linkedin.com/in/abinesh-b-1b14a1290/)
 - 🐙 **GitHub:** [github.com/Abinesh2418](https://github.com/Abinesh2418)
