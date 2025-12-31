@@ -159,6 +159,6 @@ Contributions are welcome! To contribute:
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
 
-📧 Email: abineshbalasubramaniyam@example.com
-💼 LinkedIn: linkedin.com/in/abinesh-b-1b14a1290/
-🐙 GitHub: github.com/Abinesh2418
+- 📧 **Email:** abineshbalasubramaniyam@example.com
+- 💼 **LinkedIn:** [linkedin.com/in/abinesh-b-1b14a1290/](https://linkedin.com/in/abinesh-b-1b14a1290/)
+- 🐙 **GitHub:** [github.com/Abinesh2418](https://github.com/Abinesh2418)
